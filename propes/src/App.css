@@ -1,0 +1,65 @@
+h1 {
+  border: 50cm;
+    display: block;
+    margin-left: 40%;
+    margin-top: 2%;
+    font-weight: bold;
+    text-decoration: underline;
+    color: black;
+    
+}
+h2{
+  border: 50cm;
+    display: block;
+    margin-left: 40%;
+    margin-top: 2%;
+    font-weight: bold;
+    color: black;
+}
+
+h3{
+  border: 50cm;
+    display: block;
+    margin-left: 40%;
+    margin-top: 2%;
+    font-weight: bold;
+    color: black;
+}
+
+h4{
+  border: 50cm;
+    display: block;
+    margin-left: 40%;
+    margin-top: 2%;
+    font-weight: bold;
+    color: black;
+}
+
+p{
+  
+    display: block;
+    margin-left: 40%;
+    margin-top: 2%;
+    color: red;
+
+}
+
+img {
+ 
+  overflow-clip-margin: content-box;
+  overflow: clip;
+}
+
+.Profile{
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  color: blue;
+
+}
+Button{ 
+  text-align: justify;
+  text-decoration: dotted;
+  color: blue;
+
+}
